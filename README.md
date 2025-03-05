@@ -39,5 +39,5 @@ O objetivo é reorganizar os cards até que eles fiquem na ordem desejada, confo
 Clone ou baixe o repositório:
 
 ```bash
-git clone <URL do repositório>
+git clone <https://github.com/will-csc/Card-Puzzle/blob/main/main.py>
 ```
