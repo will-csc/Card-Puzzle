@@ -34,10 +34,3 @@ O jogador pode mover qualquer card adjacente ao espaço vazio para esse espaço.
 O objetivo é reorganizar os cards até que eles fiquem na ordem desejada, conforme mostrado acima.
 
 <hr>
-
-## Como Rodar
-Baixe o arquivo e o execute:
-
-```bash
-git clone <https://github.com/will-csc/Card-Puzzle/blob/main/main.py>
-```
