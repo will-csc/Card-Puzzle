@@ -36,7 +36,7 @@ O objetivo é reorganizar os cards até que eles fiquem na ordem desejada, confo
 <hr>
 
 ## Como Rodar
-Clone ou baixe o repositório:
+Baixe o arquivo e o execute:
 
 ```bash
 git clone <https://github.com/will-csc/Card-Puzzle/blob/main/main.py>
